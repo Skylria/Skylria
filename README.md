@@ -1,6 +1,6 @@
 # 👋 Hi, My name is Juliana but everybody calls me  Sky! #
 ## (Thanks to the games for giving me this special nickname) ##
-<img src="https://media.giphy.com/media/tHufwMDTUi20E/source.gif" width="280" height="280" align="right"></img>
+<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="280" height="280" align="right"></img>
 
 <p> 👀 I work with Automated Tests! </p>
   
