@@ -45,6 +45,7 @@
 <p align="start" style="padding:10px;">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'"></img>
+    <img src="https://img.shields.io/badge/Apple-BCBCBC?style=for-the-badge&logo=apple&logoColor=white'">
  </p>
 
 
