@@ -4,7 +4,7 @@
 
 <p> 👀 I work with Automated Tests! </p>
   
-<p> 🌱 I’m currently learning Java for mobile, Python for Data Science and C. </p>
+<p> 🌱 I’m currently learning mobile, API tests with Appium and Cypress. </p>
 
 <p> 💞️ I’m looking to collaborate on Data science projects, automated tests issues and machine learning projects </p>
 
