@@ -16,7 +16,7 @@ Class Me:
     languages = list("Python", "Java", "JavaScript")
 ```
 
-### 🛠 &nbsp;Software and tools skills 
+<h2>🛠 &nbsp;Software and tools skills </h2>
 <p align="start" style="padding:10px;">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -34,49 +34,34 @@ Class Me:
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 </p>
 
-<details>
-    <summary><h3>💻 GitHub Profile Stats</h3></summary>
-    <div>
-    <samp>
-        <h2 align="center"> Github stats </h2>
-            <br/>
-        <details open>
-        <summary><h3>Languages</h3></summary>
-            <p align="center">
-                <a href="https://github.com/Skylria/">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&theme=monokai&layout=compact" 
-                     alt="Skylria :: overall Top Langs " /></a>
-            </p>
-             <p align="center">
-                <a href="https://github.com/Skylria/">
-                <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skylria&theme=monokai&layout=compact"
-                    alt="Skylria :: Top Langs by repo" />
-                <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skylria&theme=monokai&layout=compact"
-                    alt="Skylria :: Top Langs by commit" />
-                </a>
-            </p>
-        </details>
-        <details open>
-            <summary><h3>Statistics</h3></summary>
-                <p align="center">
-                  <a href="https://github.com/Skylria/">
-                      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=monokai&hide_border=false" />
-                      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=monokai&hide_border=false" />
-                  </a>
-               </p>
-                <br>
-    </samp>
-    </div>    
-</details>
-<details>
-    <summary><h3>📈 Latest Activity Graph</h3></summary>
-  <samp>
-  <br/>
+<h2>💻 GitHub Profile Stats</h2>
+  <h3>Languages</h3>
+  <p align="center">
+    <a href="https://github.com/Skylria/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&theme=monokai&layout=compact" 
+         alt="Skylria :: overall Top Langs " /></a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Skylria/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skylria&theme=monokai&layout=compact"
+        alt="Skylria :: Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skylria&theme=monokai&layout=compact"
+        alt="Skylria :: Top Langs by commit" />
+    </a>
+  </p>
+  <h3>Statistics</h3></summary>
+    <p align="center">
+    <a href="https://github.com/Skylria/">
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=monokai&hide_border=false" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=monokai&hide_border=false" />
+    </a>
+    </p>
+<h2> 📈 Latest Activity Graph </h2>
   <h2 align="center"> latest contribution </h2>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="Sky's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Skylria&bg_color=000&color=fff&line=00E676&point=fff&hide_border=false" /></a>
         <br/>
-  </samp>
-</details>
+
 </p>
- 
+<h2> :trophy: Git profile Trophies </h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Skylria&layout=compact&theme=algolia" alt="Skylria" /></a> </p>
