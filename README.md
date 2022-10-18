@@ -35,40 +35,48 @@ Class Me:
 </p>
 
 <details>
-    <summary>
-        <h2>💻 GitHub Profile Stats</h2>
-    </summary>
+    <summary><h3>💻 GitHub Profile Stats</h3></summary>
     <div>
     <samp>
         <h2 align="center"> Github stats </h2>
             <br/>
         <details open>
-    <summary><h3>Languages</h3></summary>
-        <p align="center">
-            <a href="https://github.com/Skylria/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&theme=monokai&layout=compact"
-          alt="Skylria :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-            <a href="https://github.com/Skylria/">
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skylria&theme=monokai&layout=compact&hide_border=false"
-          alt="Skylria :: Top Langs by repo" />
-            <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skylria&theme=monokai&layout=compact&hide_border=false"
-          alt="Skylria :: Top Langs by commit" />
-          </a>
-        </p>
+        <summary><h3>Languages</h3></summary>
+            <p align="center">
+                <a href="https://github.com/Skylria/">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&theme=monokai&layout=compact" 
+                     alt="Skylria :: overall Top Langs " /></a>
+            </p>
+             <p align="center">
+                <a href="https://github.com/Skylria/">
+                <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Skylria&theme=monokai&layout=compact"
+                    alt="Skylria :: Top Langs by repo" />
+                <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skylria&theme=monokai&layout=compact"
+                    alt="Skylria :: Top Langs by commit" />
+                </a>
+            </p>
+        </details>
+        <details open>
+            <summary><h3>Statistics</h3></summary>
+                <p align="center">
+                  <a href="https://github.com/Skylria/">
+                      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=monokai&hide_border=false" />
+                      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=monokai&hide_border=false" />
+                  </a>
+               </p>
+                <br>
+    </samp>
+    </div>    
 </details>
-    <details open>
-  <summary><h3>Statistics</h3></summary>
-        <p align="center">
-          <a href="https://github.com/Skylria/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=monokai&hide_border=false" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=monokai&hide_border=false" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
+<details>
+    <summary><h3>📈 Latest Activity Graph</h3></summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="Sky's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Skylria&bg_color=000&color=fff&line=00E676&point=fff&hide_border=false" /></a>
+        <br/>
+  </samp>
 </details>
 </p>
  
