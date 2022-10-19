@@ -29,6 +29,12 @@ Class Me:
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
+    <code><img height="30" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png"></code>
+<!--     <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code> -->
+<!--     <code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code> -->
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
