@@ -62,11 +62,11 @@ Class Me:
       <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=bear&background=000&border=30A3DC&dates=FFF" />
     </a>
     </p>
-<h2> 📈 Latest Activity Graph </h2>
+<!-- <h2> 📈 Latest Activity Graph </h2>
   <h2 align="center"> latest contribution </h2>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="Sky's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Skylria&bg_color=000&color=fff&line=00E676&point=fff&hide_border=false" /></a>
-        <br/>
+        <br/> -->
 
 </p>
 <h2> :trophy: Git profile Trophies </h2>
