@@ -6,7 +6,7 @@
 
 <p> 💞️ I’m looking to collaborate on Data science projects and automated tests </p>
 
-<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/julianavenâncio">LinkedIn</a> and if you want to meet the "unprofessional" Sky, meet me on <a href = "https://instagram.com/sky_jully">Instagram</a> </p>
+<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/julianavenâncio">LinkedIn</a> and if you want to meet the "unprofessional" Sky, meet my influencer profile on <a href = "https://instagram.com/sky.lightif">Instagram</a> </p>
 
 ```PYTHON
 Class Me:
@@ -44,7 +44,7 @@ Class Me:
   <h3>Languages</h3>
   <p align="center">
     <a href="https://github.com/Skylria/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&theme=monokai&layout=compact" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylria&langs_count=6&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" 
          alt="Skylria :: overall Top Langs " /></a>
   </p>
   <p align="center">
@@ -58,8 +58,8 @@ Class Me:
   <h3>Statistics</h3></summary>
     <p align="center">
     <a href="https://github.com/Skylria/">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=monokai&hide_border=false" />
-      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=monokai&hide_border=false" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Skylria&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylria&theme=bear&background=000&border=30A3DC&dates=FFF" />
     </a>
     </p>
 <h2> 📈 Latest Activity Graph </h2>
