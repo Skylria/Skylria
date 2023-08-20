@@ -6,7 +6,7 @@
 
 <p> 💞️ I’m looking to collaborate on Data science projects and automated tests </p>
 
-<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/julianavenâncio">LinkedIn</a> and if you want to meet the "unprofessional" Sky, meet my influencer profile on <a href = "https://instagram.com/sky.lightif">Instagram</a> </p>
+<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/jmvenancio">LinkedIn</a> and if you want to meet the "unprofessional" Sky, meet my influencer profile on <a href = "https://instagram.com/sky.lightif">Instagram</a> </p>
 
 ```PYTHON
 Class Me:
