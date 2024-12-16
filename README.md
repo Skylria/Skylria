@@ -4,16 +4,16 @@
 <div align="center">
 </div>
 
-<p> 💞️ I’m looking to collaborate on Data science projects and automated tests </p>
+<p> 💞️ I’m looking to collaborate on Machine Learning projects and Automated Tests </p>
 
-<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/juvenancio">LinkedIn</a> and if you want to meet the other side of Sky, meet my influencer profile on <a href = "https://instagram.com/hey.iamsky">Instagram</a> I create content about tech stuff and games</p>
+<p> 📫 How to reach me: find me on <a href="https://linkedin.com/in/juvenancio">LinkedIn</a> and if you want to meet the other side of Sky, meet my influencer profile on <a href = "https://instagram.com/sky.vvg">Instagram</a> and <a href = "https://tiktok.com/@sky.vvg">TikTok</a> I create content about programming, tech stuff and games</p>
 
 ```PYTHON
 Class Me:
     nickname = "Sky"
     acknowledgements = list("DataScience", "Automated Tests", "Web Development")
-    primary_skill_set = list("Cypress", "Robot", "Selenium", "Postman")
-    languages = list("Python", "Java", "JavaScript")
+    primary_skill_set = list("Cypress", "Postman")
+    languages = list("Python", "JavaScript")
 ```
 
 <h2>🛠 &nbsp;Software and tools skills </h2>
