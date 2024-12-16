@@ -19,7 +19,6 @@ Class Me:
 <h2>🛠 &nbsp;Software and tools skills </h2>
 <p align="start" style="padding:10px;">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -32,7 +31,7 @@ Class Me:
     <code><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"></code>
     <code><img height="30" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"></code>
-    <code><img height="30" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png"></code>
+<!--     <code><img height="30" src="https://www.cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png"></code> -->
 <!--     <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code> -->
 <!--     <code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code> -->
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
